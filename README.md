@@ -30,6 +30,8 @@ This is an official implementation of the paper "NARUTO: Neural Active Reconstru
 <sup>&ddagger;</sup> Corresponding author </br>
 
 
+<img src="assets/naruto_teaser.gif" width="800" height="400"> 
+
 ## Table of Contents
 - [📁 &nbsp; Repo Structure](#repo-structure)
 - [🛠️ &nbsp; Installation](#installation) 
