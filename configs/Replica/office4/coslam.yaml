@@ -1,0 +1,7 @@
+inherit_from: configs/Replica/replica_coslam.yaml
+mapping:
+  bound: [[-1.3,5.4],[-2.4,4.3],[-1.3,1.7]]
+  marching_cubes_bound: [[-1.3,5.4],[-2.4,4.3],[-1.3,1.7]]
+
+data:
+  trainskip: 1

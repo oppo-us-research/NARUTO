@@ -1,0 +1,16 @@
+inherit_from: configs/NARUTO/NARUTO_coslam.yaml
+mapping:
+  bound: [[-3.05, 3.05],[-3.05,3.05],[-3.05,3.05]]
+  marching_cubes_bound: [[-2.20,1.95],[-2.45,2.25],[-2.45, 1.55]]
+
+
+data:
+  trainskip: 1
+
+mesh:
+  resolution: 512
+  render_color: False
+  vis: 500
+  voxel_eval: 0.02
+  voxel_final: 0.01
+  visualisation: False

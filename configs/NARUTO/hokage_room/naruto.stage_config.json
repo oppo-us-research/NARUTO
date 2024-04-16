@@ -1,0 +1,5 @@
+{
+  "render_asset": "../../../data/NARUTO/hokage_room/hokage_room.glb",
+  "up": [0, 1, 0],
+  "front": [0, 0, -1]
+}

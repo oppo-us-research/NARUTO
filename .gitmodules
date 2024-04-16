@@ -1,0 +1,6 @@
+[submodule "third_parties/coslam"]
+	path = third_parties/coslam
+	url = https://github.com/HengyiWang/Co-SLAM.git
+[submodule "third_parties/neural_slam_eval"]
+	path = third_parties/neural_slam_eval
+	url = https://github.com/JingwenWang95/neural_slam_eval.git

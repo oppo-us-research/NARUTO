@@ -1,0 +1,7 @@
+inherit_from: configs/MP3D/mp3d_coslam.yaml
+mapping:
+  bound: [[-6.8,0.7],[-3.8,3.6],[-0.05,3.9]]
+  marching_cubes_bound: [[-6.8,0.7],[-3.8,3.6],[-0.05,3.9]]
+
+data:
+  trainskip: 1
