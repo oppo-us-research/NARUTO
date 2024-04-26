@@ -4,7 +4,7 @@ ROOT=${PWD}
 conda create -y -n naruto python=3.8 cmake=3.14.0
 
 ### activate conda environment ###
-source activate naruto
+conda activate naruto
 
 # ### Setup habitat-sim ###
 cd ${ROOT}/third_parties
