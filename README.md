@@ -4,8 +4,8 @@
 
 <a href='https://oppo-us-research.github.io/NARUTO-website/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href='https://arxiv.org/pdf/2402.18771.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-<!-- [![YouTube](https://badges.aleen42.com/src/youtube.svg)](TODO) -->
-<!-- <a href='TODO'><img src='assets/poster_badge.png' width=78 height=21></a> -->
+[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=SsWdB-_5XM0)
+<a href='https://github.com/oppo-us-research/NARUTO-website/blob/main/static/images/cvpr24_poster_naruto.png'><img src='assets/poster_badge.png' width=78 height=21></a>
 
 
 This is an official implementation of the paper "NARUTO: Neural Active Reconstruction from Uncertain Target Observations". 
