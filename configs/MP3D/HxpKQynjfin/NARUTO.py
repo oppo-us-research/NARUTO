@@ -36,7 +36,7 @@ if _base_.sim["method"] == "habitat":
 if _base_.slam["method"] == "coslam":
     _base_.slam.update(
         room_cfg        = f"{dirs['cfg_dir']}/coslam.yaml",   # Co-SLAM room configuration
-        active_planning = True,                             # enable/disable active planning
+        enable_active_planning = True,                             # enable/disable active planning
         active_ray      = True,                             # enable/disable active ray sampling
         
         SLAMData_dir = None, 

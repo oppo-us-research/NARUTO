@@ -35,7 +35,7 @@ if _base_.sim["method"] == "habitat":
 if _base_.slam["method"] == "coslam":
     _base_.slam.update(
         room_cfg        = f"{dirs['cfg_dir']}/coslam.yaml",   # Co-SLAM room configuration
-        active_planning = True,                             # enable/disable active planning
+        enable_active_planning = True,                             # enable/disable active planning
         active_ray      = True,                             # enable/disable active ray sampling
         voxel_size = 0.1,                               # Voxel size for Uncertainty/SDF volume. Unit: meter
         
